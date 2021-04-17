@@ -1,0 +1,8 @@
+Back-End
+1.import project existing maven project 
+2.configure application.properties for database connection
+
+Front-End
+1.install node.js
+2.go to frontend path and run npm install for first time.
+3.npm run server.
